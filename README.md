@@ -1,0 +1,141 @@
+[politica_de_privacidade_maui_premium_html.html](https://github.com/user-attachments/files/28102732/politica_de_privacidade_maui_premium_html.html)
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Política de Privacidade — Maui Premium (Mundo Digital Software)</title>
+  <meta name="description" content="Política de Privacidade do aplicativo Maui Premium (com.mundodigital.mauipremium) — Mundo Digital Software Ltda." />
+  <style>
+    body{font-family: Arial, Helvetica, sans-serif;line-height:1.6;color:#222;padding:20px;max-width:900px;margin:0 auto}
+    h1,h2,h3{color:#0b5bd7}
+    pre{background:#f4f4f4;padding:10px;overflow:auto}
+    .meta{font-size:0.9rem;color:#555}
+    footer{margin-top:40px;font-size:0.9rem;color:#666}
+    .badge{display:inline-block;padding:6px 10px;border-radius:6px;background:#eef; color:#083772;font-weight:600}
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Política de Privacidade</h1>
+    <p class="meta">Aplicativo: <strong>Maui Premium</strong> — Identificador interno: <strong>com.mundodigital.mauipremium</strong></p>
+    <p class="meta">Desenvolvedor: <strong>Mundo Digital Software Ltda</strong> — CNPJ: <strong>30.935.681/0001-40</strong></p>
+    <p class="meta">Última atualização: <strong>21/05/2026</strong></p>
+  </header>
+
+  <section>
+    <h2>1. Introdução</h2>
+    <p>Esta Política de Privacidade descreve como a <strong>Mundo Digital Software Ltda</strong> coleta, utiliza, compartilha e protege as informações relacionadas ao uso do aplicativo <strong>Maui Premium</strong> (doravante “App”). O App tem como finalidade auxiliar operações de força de vendas (bares, restaurantes, vendedores externos) integrando-se ao sistema gerencial instalado no computador do cliente.</p>
+    <p>Ao utilizar o App, o usuário declara ter ciência e concordar com os termos descritos nesta política. O uso do App está condicionado à autorização e ao contrato firmado com a empresa contratante (cliente da Mundo Digital Software).</p>
+  </section>
+
+  <section>
+    <h2>2. Dados coletados</h2>
+    <p>O App opera em modo empresarial e sincroniza informações com o sistema gerencial do cliente. Os tipos de dados envolvidos incluem:</p>
+    <ul>
+      <li>Dados operacionais: registros de vendas, itens, estoque, preços e transações.</li>
+      <li>Dados de clientes e consumidores finais (quando presentes nas operações comerciais), conforme cadastrados pela empresa contratante.</li>
+      <li>Credenciais de acesso dos usuários corporativos (fornecidas e gerenciadas pela empresa contratante).</li>
+      <li>Dados técnicos: identificador do dispositivo, versão do App, logs de erro e telemetria básica para diagnóstico.</li>
+    </ul>
+    <p>Observação: o App <strong>não</strong> coleta dados para fins de marketing, publicidade ou divulgação sem o consentimento expresso da empresa contratante.</p>
+  </section>
+
+  <section>
+    <h2>3. Finalidades do tratamento</h2>
+    <p>As informações são tratadas para os seguintes propósitos:</p>
+    <ul>
+      <li>Autenticação e controle de acesso de usuários autorizados.</li>
+      <li>Sincronização das operações de vendas entre o App e o sistema gerencial local.</li>
+      <li>Suporte técnico, diagnóstico de falhas e melhoria do serviço.</li>
+      <li>Cumprimento de obrigação legal ou regulatória quando necessário.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>4. Base legal e conformidade</h2>
+    <p>O tratamento de dados pessoais está em conformidade com a <strong>Lei Geral de Proteção de Dados (Lei nº 13.709/2018)</strong> – LGPD, e demais normativas aplicáveis. A base legal utilizada depende da natureza do dado e da operação, incluindo:</p>
+    <ul>
+      <li>Execução de contrato com a empresa contratante;</li>
+      <li>Cumprimento de obrigação legal ou regulatória;</li>
+      <li>Legítimo interesse para segurança, prevenção a fraudes e manutenção técnica do serviço (quando aplicável);</li>
+      <li>Consentimento expresso do titular, quando necessário para operações específicas.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>5. Compartilhamento de dados</h2>
+    <p>A Mundo Digital Software Ltda não venderá, alugará ou divulgará dados pessoais a terceiros para fins comerciais. O compartilhamento poderá ocorrer nas seguintes hipóteses:</p>
+    <ul>
+      <li>Entre o App e o sistema gerencial da própria empresa contratante, para finalidade operacional (sincronização de vendas, estoque e clientes).</li>
+      <li>Com prestadores de serviço técnicos contratados pela Mundo Digital Software para manutenção, hospedagem ou suporte, sempre sob contrato que exija confidencialidade e medidas de segurança.</li>
+      <li>Mediante ordem judicial ou requisição de autoridade competente.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>6. Segurança</h2>
+    <p>A segurança das informações é tratada com prioridade. Algumas medidas adotadas incluem:</p>
+    <ul>
+      <li>Transmissão criptografada via HTTPS/TLS entre o App e as APIs corporativas.</li>
+      <li>Mecanismos de autenticação por token e chaves de acesso gerenciadas pela empresa contratante.</li>
+      <li>Armazenamento local protegido no dispositivo, respeitando boas práticas de segurança da plataforma.</li>
+      <li>Controle de acesso baseado em permissões definidas pela empresa contratante.</li>
+    </ul>
+    <p>O sistema foi desenvolvido em C# com .NET MAUI e utiliza comunicação via API com criptografia. Apesar das medidas adotadas, nenhum sistema pode ser 100% imune a riscos; portanto, mantemos atualizações e revisões periódicas de segurança.</p>
+  </section>
+
+  <section>
+    <h2>7. Retenção e eliminação de dados</h2>
+    <p>Os dados são retidos enquanto necessários para o cumprimento das finalidades descritas ou conforme exigido por lei. A solicitação de exclusão deverá ser submetida pela empresa contratante, que tem autoridade sobre os dados do seu ambiente. Após término contratual ou solicitação formal, os dados podem ser removidos dos servidores e dispositivos, respeitando obrigações legais de retenção quando aplicáveis.</p>
+  </section>
+
+  <section>
+    <h2>8. Direitos dos titulares</h2>
+    <p>Os titulares dos dados (quando aplicável) possuem, entre outros, os seguintes direitos:</p>
+    <ul>
+      <li>Confirmação da existência de tratamento;</li>
+      <li>Acesso aos dados pessoais armazenados;</li>
+      <li>Correção de dados incompletos, inexatos ou desatualizados;</li>
+      <li>Solicitar anonimização, bloqueio ou eliminação de dados desnecessários, excessivos ou tratados em desconformidade;</li>
+      <li>Portabilidade dos dados a outro fornecedor de serviço, quando tecnicamente viável;</li>
+      <li>Revogar consentimento a qualquer momento (quando a base legal for o consentimento).</li>
+    </ul>
+    <p>Pedidos relacionados ao exercício desses direitos deverão ser encaminhados pela empresa contratante por meio dos canais de contato abaixo.</p>
+  </section>
+
+  <section>
+    <h2>9. Uso restrito e responsabilidade</h2>
+    <p>O App é destinado ao uso corporativo e apenas usuários autorizados pela empresa contratante devem utilizá-lo. A responsabilidade pelo cadastro, veracidade das informações e gestão de permissões é da própria empresa contratante.</p>
+  </section>
+
+  <section>
+    <h2>10. Alterações desta Política</h2>
+    <p>Podemos atualizar esta Política de Privacidade periodicamente. Em caso de alterações significativas, comunicaremos as empresas contratantes e, quando aplicável, os usuários autorizados. A versão mais recente estará disponível neste documento e indicada pela data de "Última atualização" no cabeçalho.</p>
+  </section>
+
+  <section>
+    <h2>11. Informações de contato</h2>
+    <p>Para exercer seus direitos, enviar dúvidas ou solicitar informações sobre essa Política de Privacidade, entre em contato com:</p>
+    <pre>
+Mundo Digital Software Ltda
+CNPJ: 30.935.681/0001-40
+Endereço: Rua Espirito Santo, 2901 sala 102
+E-mail: serginhodeermida@gmail.com
+Telefone: +55(37)+8838-8770
+Site: não possuimos.
+    </pre>
+    <p>Observação: para pedidos de exclusão, portabilidade ou acesso, as solicitações deverão ser formalizadas pela pessoa jurídica contratante que administra o ambiente (empresa cliente).</p>
+  </section>
+
+  <section>
+    <h2>12. Observações finais</h2>
+    <p>Este documento foi estruturado para cumprir os requisitos da Google Play Store e da legislação brasileira de proteção de dados, especialmente para aplicativos corporativos que funcionam em integração com sistemas locais.</strong> e preencha as informações da sua empresa antes de publicar o link no Console do Google Play (campo "Privacy Policy URL").</p>
+  </section>
+
+  <footer>
+    <p class="badge">Mundo Digital Software Ltda</p>
+    <p>Versão do documento: 14.0 — Última atualização: 03/11/2025</p>
+  </footer>
+</body>
+</html>
